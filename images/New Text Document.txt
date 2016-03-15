@@ -1,0 +1,14 @@
+<footer>
+  <div class="container_12">
+          <div class="grid_7">
+                      <p>Copyright@2016 Automobil BBT S.P.A All rights reserved.VAT no.337515750075</p>
+          </div>
+  <div class="grid_5">
+      <img src="" alt="" />
+  </div>
+</div>
+
+</footer>
+
+
+</div>
