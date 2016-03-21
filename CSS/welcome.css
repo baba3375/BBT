@@ -1,0 +1,142 @@
+
+body{
+  font-family: 'Poiret One',cursive;
+
+
+}
+.banner{
+  background-color: white;
+  background-repeat: no-repeat;
+}
+
+ a{
+  font-size:900px;
+
+  color: black;
+  text-shadow: 3px 3px red;
+  text-decoration: none;
+}
+
+nav a{
+
+  padding: 10px;
+  margin-top: 50px;
+  display: inline;
+  float:right;
+  margin-right: 20px;
+  text-shadow: 1px 1px #e3e3e3;
+}
+  nav a:hover{
+     color:red;
+            }
+
+
+.stuffs1 p{
+  margin-top: 70px;
+  font-size: 25px;
+
+  text-shadow: 1px 1px #ff0000;
+  color: black;
+  margin-left: 10px;
+  padding-left: 10px;
+}
+.maal p{
+
+   font-size: 30px;
+
+   text-shadow: 1px 1px #ff0000;
+   color: black;
+   margin-left: 10px;
+   padding-left: 20px;
+   margin-top: 10px;
+}
+
+
+
+ .footer-left img{
+  margin-right: 200px;
+}
+
+.footer p{
+    font-size: 34px;
+    font-family: cursive;
+    text-shadow: 1px 1px #ff0000;
+    color: black;
+}
+
+
+.footer1 li{
+  padding: 0px;
+  margin-top:10px;
+  display: inline;
+  float:left;
+  margin-right: 0px;
+
+}
+.footer1 .searchbar form {
+  margin-left: 76px;
+  margin-top: 10px;
+}
+.footer1 p{
+  font-size: 20px;
+  font-family: cursive;
+  margin-left: 30px;
+}
+.footer1{
+
+  border-style: solid;
+  border: 10px;
+}
+
+ .mid .mid1 h5{
+   margin-left: 20px;
+   font-size: 20px;
+   font-family: cursive;
+   text-shadow: 1px 1px #ff0000;
+ }
+
+
+.mid .mid2 h5{
+  margin-top: 5px;
+  font-size: 20px;
+  font-family: cursive;
+  text-shadow: 1px 1px #ff0000;
+  margin-right: 40px;
+}
+.mid .mid2 li{
+  font-size: 20px;
+  font-style: italic;
+  font-family: cursive;
+  margin-right:70px;
+
+}
+.mid .mid3 h5{
+  margin-top: 5px;
+  font-size: 20px;
+  font-family: cursive;
+  text-shadow: 1px 1px #ff0000;
+  margin-right: 40px;
+
+}
+.mid .mid3 p{
+  font-size: 20px;
+
+
+}
+.last .rightleft p{
+  font-size: 20px;
+  font-style: normal;
+  color: black;
+  float:left;
+  margin-right: 10px;
+  margin-top: 40px;
+}
+.last .lastleft img{
+  margin-left: 50px;
+}
+.last .lastleft p {
+  margin-left: 60px;
+}
+.container_12 .footer1{
+  margin-top: 30px;
+}
