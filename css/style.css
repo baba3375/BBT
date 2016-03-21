@@ -1,0 +1,228 @@
+.navbar-default  {
+background-image: url('C:/StackRoute-Vagrant-Node5-Mongo3.2/new/pics/head.jpg');
+min-height: 100px;
+
+}
+.navbar-brand img{
+  margin-bottom: 50px;
+}
+
+.navbar{
+  border-radius: 14px;
+  min-height: 170px;
+
+}
+.nav li a{
+  font-size: 20px;
+  font-family: cursive;
+  color: white;
+  font-weight: bold;
+}
+ #navbar{
+  margin-top: 12px;
+  margin-bottom: 1px;
+}
+
+.btn {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.response{
+  width: 99%;
+}
+
+#content{
+
+   background-image: url('C:/StackRoute-Vagrant-Node5-Mongo3.2/new/pics/1.jpg');
+   background-repeat: no-repeat;
+}
+#content1  img{
+  margin-top: 30px;
+}
+#content2  img{
+  margin-top: 30px;
+}
+#content3  img{
+  margin-top: 30px;
+}
+#content1 p{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: monospace;
+  color: white;
+}
+#content2 p{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: monospace;
+  color: white;
+}
+#content3 p{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: monospace;
+  color: white;
+}
+#content1 h5{
+  color: white;
+  font-family: cursive;
+  font-size: 20px;
+}
+#content2 h5{
+  color: white;
+  font-family: cursive;
+  font-size: 20px;
+}
+#content3 h5{
+  color: white;
+  font-family: cursive;
+  font-size: 20px;
+}
+.yoyo  img{
+  margin-top: 30px;
+}
+ .news a{
+
+  font-size: 30px;
+
+  font-family: cursive;
+  color: blue;
+}
+.middleimage img{
+  margin-top: 20px;
+}
+#cont4 p{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: monospace;
+  color: white;
+}
+#cont4 h4{
+  color: white;
+  font-family: cursive;
+  font-size: 25px;
+}
+#cont5{
+  margin-top: 42px;
+
+}
+#cont5 p{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: monospace;
+  color: white;
+}
+#cont5 a{
+ margin-left: 50px;
+ margin-bottom: 20px;
+ font-size: 25px;
+
+ font-family: cursive;
+ color: blue;
+}
+#cont5 a{
+  border-radius: 4px;
+border-top-left-radius: 4px;
+border-top-right-radius: 4px;
+border-bottom-right-radius: 4px;
+border-bottom-left-radius: 4px;
+border-color: red;
+}
+#second{
+  margin-top: 30px;
+}
+#cont7{
+  margin-top: 70px;
+}
+#cont7 h5{
+  color: white;
+  font-size: 26px;
+}
+#cont7 p{
+  font-size: 30px;
+  color: white;
+  font-family: monospace;
+}
+#cont7 a{
+ margin-left: 200px;
+ margin-top: 200px;
+ margin-bottom: 0px;
+ font-size: 25px;
+
+ font-family: cursive;
+ color: blue;
+}
+#last{
+  margin-top: 30px;
+  background-image: url('C:/StackRoute-Vagrant-Node5-Mongo3.2/new/pics/last.jpg');
+  background-repeat: no-repeat;
+
+}
+#lasttext{
+  margin-top: 400px;
+}
+#lasttext p{
+  color: white;
+  font-size: 20px;
+
+}
+ #lasttext h2{
+  color: white;
+  font-size: 40px;
+}
+#lasttext a{
+  color: white;
+  font-family: cursive;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+.footermain{
+  background-color: black;
+}
+.footer-left img{
+ margin-right: 200px;
+}
+
+.footer p{
+   font-size: 34px;
+   font-family: cursive;
+   text-shadow: 1px 1px #ff0000;
+   color: black;
+}
+
+
+.footermain li{
+ padding: 20px;
+ margin-top:20px;
+ display: inline;
+ float:left;
+ margin-left: 10px;
+
+}
+.footermain h5{
+
+      font-size: 17px;
+      font-family: cursive;
+      color: white;
+
+}
+.footermain form {
+ margin-left: 500px;
+ margin-top: 40px;
+}
+.footermain p{
+ font-size: 20px;
+ font-family: cursive;
+ margin-left: 10px;
+ color: white;
+}
+.footer1{
+
+ border-style: solid;
+ border: 10px;
+}
+.asso2{
+  margin-top: 52px;
+}
